@@ -10,7 +10,9 @@ y presentando los resultados con storytelling
 
 ## 🖼️ Vista previa
 
-<img src="./CorrelacionVariables.png" width="500"/>
+<img src="./CapturasProyectoPWBI/ProyectoIntegrador01.png" width="500"/>
+<img src="./CapturasProyectoPWBI/ProyectoIntegrador02.png" width="500"/>
+<img src="./CapturasProyectoPWBI/ProyectoIntegrador03.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Microsoft Excel
