@@ -20,4 +20,6 @@ y presentando los resultados con storytelling
 - Power Query
 - Tecnicas Storytelling
 
-##### Gabriel Gallardo
+#### 👨‍💻 Author
+###### Gabriel Gallardo
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/gerardo-gabriel-gallardo-12619ab5)
